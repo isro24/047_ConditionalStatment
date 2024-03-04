@@ -12,3 +12,10 @@ int main()
 	cin >> nilaiFisika;
 
 	rerata = (nilaiMatematika + nilaiFisika) / 2;
+
+	if (rerata >= 60 || nilaiMatematika > 70) {
+		status = "Lulus";
+	}
+	else {
+		status = "Tidak lulus";
+	}
