@@ -10,3 +10,5 @@ int main()
 	cin >> nilaiMatematika;
 	cout << "Masukkan Nilai Fisika : ";
 	cin >> nilaiFisika;
+
+	rerata = (nilaiMatematika + nilaiFisika) / 2;
