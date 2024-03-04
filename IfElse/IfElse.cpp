@@ -19,3 +19,5 @@ int main()
 	else {
 		status = "Tidak lulus";
 	}
+
+	cout << "Status Kelulusan adalah : " << status << endl;
