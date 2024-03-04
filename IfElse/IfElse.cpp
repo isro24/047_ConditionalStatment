@@ -21,3 +21,6 @@ int main()
 	}
 
 	cout << "Status Kelulusan adalah : " << status << endl;
+
+	return 0;
+}
