@@ -5,3 +5,8 @@ int main()
 {
 	double nilaiMatematika, nilaiFisika, rerata;
 	string status;
+
+	cout << "Masukkan nilai Matematika : ";
+	cin >> nilaiMatematika;
+	cout << "Masukkan Nilai Fisika : ";
+	cin >> nilaiFisika;
